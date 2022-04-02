@@ -52,9 +52,3 @@ img {
 .intro {
     max-width: 400px;
 }
-
-.introcontainer {
-    display: flex;
-    justify-content: space-around;
-}
-
