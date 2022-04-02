@@ -46,3 +46,12 @@ button {
     border-radius: 8px;
 }
 
+img {
+    width: 400px;
+    height: 200px;
+}
+
+.introcontainer {
+    display: flex;
+}
+
