@@ -16,5 +16,29 @@ ul {
     list-style-type: none;
     display: flex;
     margin: 0;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+.headerlogo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.intro .main {
+    font-size: 48px;
+    font-weight: bold;
+    color: #F9FAF8;
+}
+
+.intro .secondary {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    font-weight: bold;
 }
 
