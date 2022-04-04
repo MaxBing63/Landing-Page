@@ -78,3 +78,8 @@ img {
     width: 120px;
     height: 140px;
 }
+
+.psychologists {
+    display: flex;
+    justify-content: space-around;
+}
