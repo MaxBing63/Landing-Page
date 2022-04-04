@@ -73,3 +73,8 @@ button {
 #title {
     text-align: center;
 }
+
+img {
+    width: 120px;
+    height: 140px;
+}
