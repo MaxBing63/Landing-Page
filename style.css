@@ -43,3 +43,7 @@ img {
     flex-direction: column;
     align-items: flex-start;
 }
+
+.introimg {
+    display: flex;
+}
