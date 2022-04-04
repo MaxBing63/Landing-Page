@@ -55,3 +55,11 @@ img {
     margin: 40px;
     justify-content: space-between;
 }
+
+button {
+    background-color: #3882F6;
+    color: #F9FAF8;
+    margin-top: 8px;
+    border-radius: 5px;
+    padding: 3px 16px;
+}
