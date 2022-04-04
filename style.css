@@ -8,6 +8,7 @@ ul {
     list-style-type: none;
     display: flex;
     padding: 0;
+    margin-right: 40px;
 }
 
 img {
@@ -23,6 +24,7 @@ img {
     font-size: 24px;
     color: #F9FAF8;
     margin-right: auto;
+    margin-left: 40px;
 }
 
 .headerlinks {
@@ -49,4 +51,5 @@ img {
 
 .introimg {
     display: flex;
+    margin: 40px;
 }
