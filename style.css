@@ -9,6 +9,11 @@ ul {
     display: flex;
     padding: 0;
     margin-right: 40px;
+    align-items: center;
+}
+
+li {
+    margin-left: 20px;
 }
 
 img {
