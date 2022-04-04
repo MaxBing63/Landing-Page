@@ -41,6 +41,7 @@ img {
 #description {
     font-size: 18px;
     color: #E5E7EB;
+    width: 500px;
 }
 
 .intro {
@@ -52,4 +53,5 @@ img {
 .introimg {
     display: flex;
     margin: 40px;
+    justify-content: space-between;
 }
