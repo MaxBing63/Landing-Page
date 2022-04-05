@@ -100,3 +100,14 @@ img {
     text-align: center;
     font-weight: bold;
 }
+
+.thirdsect {
+    background-color: #E5E7EB;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
