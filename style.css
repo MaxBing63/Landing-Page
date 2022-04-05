@@ -123,3 +123,13 @@ img {
     margin-top: 20px;
     font-size: 20px;
 }
+
+.fourthsect {
+    display: flex;
+    justify-content: center;
+}
+
+.signup {
+    display: flex;
+    justify-content: center;
+}
