@@ -117,3 +117,9 @@ img {
     font-style: italic;
     color: #1F2937;
 }
+
+.author {
+    font-weight: bold;
+    margin-top: 20px;
+    font-size: 20px;
+}
