@@ -132,4 +132,6 @@ img {
 .signup {
     display: flex;
     justify-content: center;
+    background-color: #3882F6;
+    padding: 20px;
 }
